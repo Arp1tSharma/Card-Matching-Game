@@ -15,8 +15,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Insight
-The card shuffles at each newgame/refresh.
-Smooth animations.
+The card shuffles at each newgame/refresh.\
+Smooth animations.\
 No Backend.
 
 ## Demo Video
