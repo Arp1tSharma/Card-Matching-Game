@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## Insight
+The card shuffles at each newgame/refresh.
+Smooth animations.
+No Backend.
+
 ## Demo Video
 
 https://user-images.githubusercontent.com/73739320/169654066-8a816d88-414d-4f55-8d2a-f494f178bbf7.mp4
