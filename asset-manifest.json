@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Card-Matching-Game/static/css/main.77afd981.css",
+    "main.js": "/Card-Matching-Game/static/js/main.c48fe0d1.js",
+    "index.html": "/Card-Matching-Game/index.html",
+    "main.77afd981.css.map": "/Card-Matching-Game/static/css/main.77afd981.css.map",
+    "main.c48fe0d1.js.map": "/Card-Matching-Game/static/js/main.c48fe0d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77afd981.css",
+    "static/js/main.c48fe0d1.js"
+  ]
+}
